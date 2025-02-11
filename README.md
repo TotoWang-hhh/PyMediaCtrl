@@ -11,7 +11,7 @@ For more info and references, see the [original post](https://www.cnblogs.com/To
 
 ## List of changes made on this program
 
-- Fixed basic function (Use `winri-*`(`pywinrt` on GitHub) instead of Microsoft official deprecated winrt).
+- Fixed basic function (Use `winrt-*`(`pywinrt` on GitHub) instead of Microsoft official deprecated winrt).
 - Removed cover art.
 - Added white tray icon (for dark taskbar theme).
 - Use system dark mode flag instead of apps dark mode flag when detecting the appearance of the taskbar.
