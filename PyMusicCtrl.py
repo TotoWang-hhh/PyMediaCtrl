@@ -7,7 +7,7 @@
 # Original post Archived @ 2025/02/09: http://web.archive.org/save/https://www.cnblogs.com/TotoWang/p/py_music_ctrl.html
 
 # List of changes made on this program:
-# - Fixed basic function (Use winri-*(pywinrt on GitHub) instead of Microsoft official deprecated winrt).
+# - Fixed basic function (Use winrt-*(pywinrt on GitHub) instead of Microsoft official deprecated winrt).
 # - Removed cover art.
 # - Added white tray icon (for dark taskbar theme).
 # - Use system dark mode flag instead of apps dark mode flag when detecting the appearance of the taskbar.
